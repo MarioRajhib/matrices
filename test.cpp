@@ -17,7 +17,7 @@ int main()
         {
             case 1:
                 cout<<"x=";
-                cin>>num;
+                cin>>num;//corrige esta linea
                 cout<<"limite=";
                 cin>>lim;
                 log(num, lim);
